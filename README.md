@@ -5,4 +5,4 @@ Bio links for my socials!
 Clone repo -> run index.html in modern browser
 
 # license
-none, this software is provided as is blah blah, no warranty yadayada
+none, do with this code as you please
